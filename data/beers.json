@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Sans Limite Hazy IPA",
+    "category": "Sans Alcool",
+    "style": "Hazy IPA",
+    "alcohol": 0.5,
+    "ibu": null,
+    "description": "Sans alcool, hazy, amertume, agrumes",
+    "tags": ["sans alcool", "hazy", "amer", "agrume"],
+    "pitch": "Une IPA sans alcool, trouble et fruitée aux notes d’agrumes, parfaite si tu veux le goût houblonné sans l’alcool.",
+    "src": "/beers/sl-ipa-v5.png"
+  },
+  {
+    "name": "Sans Limite Blanche",
+    "category": "Sans Alcool",
+    "style": "Blanche",
+    "alcohol": 0.5,
+    "ibu": null,
+    "description": "Sans alcool, léger, voilé",
+    "tags": ["sans alcool", "léger", "rafraîchissant"],
+    "pitch": "Une blanche sans alcool, douce et légère, super rafraîchissante et facile à boire."
+  },
+  {
+    "name": "Sans Limite Rousse",
+    "category": "Sans Alcool",
+    "style": "Rousse",
+    "alcohol": 0.5,
+    "ibu": null,
+    "description": "Sans alcool, maltée, équilibrée, caramel",
+    "tags": ["sans alcool", "rousse", "maltée", "caramel"],
+    "pitch": "Une rousse sans alcool, équilibrée et maltée avec une touche de caramel.",
+    "src": "/beers/sl-rousse-v4.png"
+  },
+  {
+    "name": "Limonade Citron à l’Horizon",
+    "category": "Sans Alcool",
+    "style": "Limonade",
+    "alcohol": 0.0,
+    "ibu": null,
+    "description": "Sans alcool, pétillante, citronnée",
+    "tags": ["sans alcool", "citron", "rafraîchissant"],
+    "pitch": "Une limonade pétillante au citron, sans alcool, qui goûte la fraîcheur estivale."
+  },
+  {
+    "name": "Je suis Sûre Ananas + Orange",
+    "category": "Sûre",
+    "style": "Sûre fruitée",
+    "alcohol": 5.5,
+    "ibu": 4,
+    "description": "Mimosa, acidité, citronnée, houblons Mandarina Bavaria",
+    "tags": ["sûre", "fruité", "ananas", "orange"],
+    "pitch": "Une sûre qui rappelle un mimosa, acidulée et fruitée à l’ananas et l’orange."
+  },
+  {
+    "name": "Je suis Sûre Bleuet + Mûre + Cassis",
+    "category": "Sûre",
+    "style": "Sûre fruitée",
+    "alcohol": 5.5,
+    "ibu": 4,
+    "description": "Rafraîchissante, acidité, baies, juteuse, houblons Mandarina Bavaria",
+    "tags": ["sûre", "fruité", "baies", "bleuet", "cassis"],
+    "pitch": "Une sûre aux petits fruits, acidulée et juteuse, parfaite si tu aimes les saveurs de baies.",
+    "src": "/beers/sour2@2x.png"
+  },
+  {
+    "name": "Panaché Citron",
+    "category": "Radler",
+    "style": "Radler citron",
+    "alcohol": 2.8,
+    "ibu": null,
+    "description": "Légère, été, citron, acidité, pétillant",
+    "tags": ["radler", "citron", "léger", "rafraîchissant"],
+    "pitch": "Un radler super léger au citron, parfait si tu veux une boisson désaltérante comme une limonade alcoolisée."
+  },
+  {
+    "name": "Panaché Pamplemousse",
+    "category": "Radler",
+    "style": "Radler pamplemousse",
+    "alcohol": 2.8,
+    "ibu": null,
+    "description": "Légère, été, pamplemousse, acidité, pétillant, sucré",
+    "tags": ["radler", "pamplemousse", "acidulé", "sucré"],
+    "pitch": "Un radler fruité et pétillant au pamplemousse, léger et sucré, qui se boit tout seul."
+  },
+  {
+    "name": "Veux-tu du Tea?",
+    "category": "Thé glacé",
+    "style": "Thé glacé alcoolisé",
+    "alcohol": 5.0,
+    "ibu": null,
+    "description": "Thé glacé, acidulé, fruité, fraise, framboise, sucré",
+    "tags": ["thé glacé", "fruité", "fraise", "framboise"],
+    "pitch": "Un thé glacé alcoolisé aux fruits rouges, sucré et rafraîchissant, comme un cocktail d’été."
+  },
+  {
+    "name": "La 117",
+    "category": "IPA",
+    "style": "IPA Laurentienne",
+    "alcohol": 5.8,
+    "ibu": 60,
+    "description": "Agrumes, pamplemousse, équilibrée, parfumée, amertume. Houblons Mosaic, Amarillo, Citra",
+    "tags": ["ipa", "amer", "pamplemousse", "houblon"],
+    "pitch": "Une IPA équilibrée avec des notes d’agrumes et de pamplemousse, houblonnée et parfumée. Elle s’est même classée 3ᵉ meilleure IPA au Canada.",
+    "src": "/beers/biere-microbrasserie-shawbridge-ipa-117.png"
+  },
+  {
+    "name": "La 20",
+    "category": "IPA",
+    "style": "West Coast IPA",
+    "alcohol": 7.0,
+    "ibu": 55,
+    "description": "Agrumes, résineux, amertume, herbacé. Houblons Amarillo, Cascade, Centennial, Chinook, Citra, Simcoe, Strata",
+    "tags": ["ipa", "amer", "résineux", "herbacé"],
+    "pitch": "Une West Coast IPA intense, aux notes résineuses et herbacées, avec une belle amertume.",
+    "src": "/beers/biere-microbrasserie-shawbridge-west-coast-ipa.png"
+  },
+  {
+    "name": "La 158",
+    "category": "IPA",
+    "style": "Double IPA",
+    "alcohol": 8.3,
+    "ibu": 77,
+    "description": "Fruité, intense, 100% québécoise, amertume. Houblons Hydra, Aztec, Mackinac",
+    "tags": ["ipa", "double", "forte", "amer"],
+    "pitch": "Une Double IPA puissante et amère, avec des saveurs fruitées intenses et 100% houblons québécois."
+  },
+  {
+    "name": "La St-Sau",
+    "category": "Blonde",
+    "style": "Blonde au miel",
+    "alcohol": 5.3,
+    "ibu": 20,
+    "description": "Miel, douceur, rondeur, légère, pas trop sucrée",
+    "tags": ["blonde", "miel", "douce", "ronde"],
+    "pitch": "Une blonde douce avec du miel local, légère et pas trop sucrée, parfaite pour relaxer.",
+    "src": "/beers/biere-microbrasserie-shawbridge-saint-sau.png"
+  },
+  {
+    "name": "Ride de Kayak",
+    "category": "Blonde",
+    "style": "Kölsch",
+    "alcohol": 4.9,
+    "ibu": 16,
+    "description": "Sèche légère, douceur, classique, 100% québécoise. Houblons Tettnang",
+    "tags": ["blonde", "kolsch", "douce", "classique"],
+    "pitch": "Une blonde de style Kölsch, sèche et légère, 100% québécoise, parfaite comme bière de soif après une activité.",
+    "src": "/beers/ridedekayak-23x.png"
+  },
+  {
+    "name": "Promenade à Venise",
+    "category": "Pilsner",
+    "style": "Pilsner italienne",
+    "alcohol": 4.9,
+    "ibu": 30,
+    "description": "Craquante, délicate, équilibrée, légère amertume, rafraîchissante. Houblons Saphir, Saaz",
+    "tags": ["pilsner", "équilibrée", "rafraîchissante"],
+    "pitch": "Une pilsner italienne craquante et rafraîchissante, avec une amertume légère et délicate.",
+    "src": "/beers/mockup-jaune.png"
+  },
+  {
+    "name": "Séraphin",
+    "category": "Ale Forte",
+    "style": "Ruby Cream Ale",
+    "alcohol": 6.2,
+    "ibu": 60,
+    "description": "Réglisse noire, caramel, épices, amertume, azote, crémeux",
+    "tags": ["forte", "cream ale", "caramel", "crémeux"],
+    "pitch": "Une ale forte et amère, crémeuse avec des notes de caramel et de réglisse noire.",
+    "src": "/beers/biere-microbrasserie-shawbridge-seraphin.png"
+  },
+  {
+    "name": "Ours Assoiffés",
+    "category": "Ale Forte",
+    "style": "Brown Ale",
+    "alcohol": 7.0,
+    "ibu": 26,
+    "description": "Torréfaction, rondeur, douceur, vanille boréale",
+    "tags": ["brown ale", "forte", "vanille", "douce"],
+    "pitch": "Une brown ale ronde et douce avec une petite touche vanillée, facile à boire malgré ses 7%.",
+    "src": "/beers/brownale-can-mockup.png"
+  },
+  {
+    "name": "La 11e Province",
+    "category": "Golden Ale",
+    "style": "Golden Ale",
+    "alcohol": 6.0,
+    "ibu": 26,
+    "description": "Maltée, cerise, amaretto, vanille forte. Houblons Styrian Goldings, Willamette",
+    "tags": ["golden ale", "fruitée", "vanille", "amaretto"],
+    "pitch": "Une golden ale originale avec des notes de cerise et de vanille, parfaite pour découvrir une bière forte mais accessible."
+  },
+  {
+    "name": "La Crème à l’Orange",
+    "category": "Bière Sucrée",
+    "style": "Blanche à l’orange",
+    "alcohol": 3.9,
+    "ibu": 12,
+    "description": "Orange, crémeuse, sucrée, vanille, lactose",
+    "tags": ["blanche", "orange", "sucrée", "crémeuse"],
+    "pitch": "Une blanche crémeuse et sucrée à l’orange et à la vanille, qui rappelle un dessert.",
+    "src": "/beers/creme-alorange.png"
+  },
+  {
+    "name": "Juice Town",
+    "category": "Bière Légère",
+    "style": "Blanche à l’orange",
+    "alcohol": 3.9,
+    "ibu": 20,
+    "description": "Fruité, orange, juteuse, fait avec purée d’orange. Houblons Tettnang",
+    "tags": ["blanche", "orange", "fruitée", "légère"],
+    "pitch": "Une blanche très fruitée à l’orange, légère et rafraîchissante, parfaite si tu veux le côté juteux.",
+    "src": "/beers/juicetown@3x.png"
+  },
+  {
+    "name": "Blanche au Jasmin",
+    "category": "Bière Légère",
+    "style": "Blanche au jasmin",
+    "alcohol": 3.9,
+    "ibu": 20,
+    "description": "Écorces d’orange, coriandre, thé au jasmin, douceur florale",
+    "tags": ["blanche", "jasmin", "florale", "rafraîchissante"],
+    "pitch": "Une blanche douce et florale au jasmin, très légère et parfumée."
+  },
+  {
+    "name": "Flower Passion",
+    "category": "Bière Légère",
+    "style": "Blanche au fruit de la passion",
+    "alcohol": 5.2,
+    "ibu": 12,
+    "description": "Fruit de la passion, eau de rose, rafraîchissante, douce, florale, fruitée. Houblon Ekuanot",
+    "tags": ["blanche", "fruit de la passion", "florale", "fruitée"],
+    "pitch": "Une blanche tropicale au fruit de la passion, douce et rafraîchissante, parfaite pour l’été.",
+    "src": "/beers/flower-passion.png"
+  },
+  {
+  "name": "La Rousse Futée",
+  "category": "Rousse",
+  "style": "Red Beer",
+  "alcohol": 4.5,
+  "ibu": 12,
+  "description": "Bière rousse, douce et équilibrée avec un profil malté et légèrement caramélisé.",
+  "tags": ["rousse", "maltée", "caramel", "douce"],
+  "pitch": "Une rousse classique et équilibrée, avec une belle rondeur maltée et une touche caramélisée.",
+  "src": "/beers/Can-Mockup_roussefutee.png"
+}
+
+]

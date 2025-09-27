@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "title": "Partie 1 : Quelle intensité de goût tu recherches ?",
+    "choices": [
+      {
+        "label": "Très douce & désaltérante",
+        "beers": [
+          "Juice Town",
+          "Blanche au Jasmin",
+          "Flower Passion",
+          "Promenade à Venise",
+          "Panaché Citron",
+          "Panaché Pamplemousse",
+          "La Crème à l’Orange",
+          "La St-Sau",
+          "Ride de Kayak",
+          "Limonade Citron à l’Horizon"
+        ]
+      },
+      {
+        "label": "Équilibrée mais goûteuse",
+        "beers": [
+          "Promenade à Venise",
+          "La St-Sau",
+          "Blanche au Jasmin",
+          "Flower Passion",
+          "Ride de Kayak",
+          "Veux-tu du Tea?",
+          "Je suis Sûre Ananas + Orange",
+          "Je suis Sûre Bleuet + Mûre + Cassis"
+        ]
+      },
+      {
+        "label": "Amère & houblonnée (IPA)",
+        "beers": [
+          "La 117",
+          "La 20",
+          "La 158",
+          "Sans Limite Hazy IPA"
+        ]
+      },
+      {
+        "label": "Riche & puissante",
+        "beers": [
+          "Séraphin",
+          "Ours Assoiffés",
+          "La 11e Province",
+          "La Rousse Futée"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Partie 2 : Quel profil de saveur t’attire le plus ?",
+    "choices": [
+      {
+        "label": "Fruité (agrumes, baies, tropical, orange)",
+        "beers": [
+          "Juice Town",
+          "Flower Passion",
+          "Blanche au Jasmin",
+          "Je suis Sûre Ananas + Orange",
+          "Je suis Sûre Bleuet + Mûre + Cassis",
+          "La 117",
+          "Panaché Pamplemousse",
+          "Panaché Citron",
+          "Veux-tu du Tea?"
+        ]
+      },
+      {
+        "label": "Malté / caramel / torréfié",
+        "beers": [
+          "Sans Limite Rousse",
+          "Séraphin",
+          "La Rousse Futée",
+          "Ours Assoiffés"
+        ]
+      },
+      {
+        "label": "Sucré / dessert (vanille, miel, lacté)",
+        "beers": [
+          "La Crème à l’Orange",
+          "La St-Sau",
+          "Ours Assoiffés"
+        ]
+      },
+      {
+        "label": "Herbacé / floral / épicé",
+        "beers": [
+          "Promenade à Venise",
+          "Blanche au Jasmin",
+          "Ride de Kayak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Partie 3 : Et côté alcool, tu veux quoi ?",
+    "choices": [
+      {
+        "label": "0 % – 0,5 % (sans alcool)",
+        "beers": [
+          "Sans Limite Hazy IPA",
+          "Sans Limite Blanche",
+          "Sans Limite Rousse",
+          "Limonade Citron à l’Horizon"
+        ]
+      },
+      {
+        "label": "2 % – 4 % (radler, bières légères)",
+        "beers": [
+          "Panaché Citron",
+          "Panaché Pamplemousse",
+          "Juice Town",
+          "Blanche au Jasmin",
+          "La Crème à l’Orange"
+        ]
+      },
+      {
+        "label": "5 % – 6 % (classiques)",
+        "beers": [
+          "La 117",
+          "La St-Sau",
+          "Ride de Kayak",
+          "Promenade à Venise",
+          "Flower Passion",
+          "Veux-tu du Tea?"
+        ]
+      },
+      {
+        "label": "7 % et + (fortes, IPA, Scotch Ale)",
+        "beers": [
+          "La 20",
+          "La 158",
+          "Séraphin",
+          "Ours Assoiffés",
+          "La 11e Province",
+          "La Rousse Futée"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Partie 4 : Dans quel mood tu es ?",
+    "choices": [
+      {
+        "label": "Soif rapide / terrasse d’été",
+        "beers": [
+          "Panaché Citron",
+          "Panaché Pamplemousse",
+          "Limonade Citron à l’Horizon",
+          "Juice Town"
+        ]
+      },
+      {
+        "label": "Repas / accord mets-bière",
+        "beers": [
+          "Promenade à Venise",
+          "La St-Sau",
+          "Ours Assoiffés",
+          "Séraphin",
+          "Ride de Kayak"
+        ]
+      },
+      {
+        "label": "Chiller & relaxer",
+        "beers": [
+          "Blanche au Jasmin",
+          "Flower Passion",
+          "Sans Limite Blanche",
+          "La Crème à l’Orange"
+        ]
+      },
+      {
+        "label": "Découverte & originalité",
+        "beers": [
+          "Je suis Sûre Ananas + Orange",
+          "Je suis Sûre Bleuet + Mûre + Cassis",
+          "Veux-tu du Tea?",
+          "La 11e Province"
+        ]
+      }
+    ]
+  }
+]
